@@ -1,1 +1,1 @@
-# shift-calendar
+# schedule-calendar
