@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+#loading {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  background: #FFFFFF;
+  z-index: 9999;
+}
+
+/*.loaded {*/
+/*  opacity: 0;*/
+/*  visibility: hidden;*/
+/*}*/
+
+#app {
+  border-radius: 4px;
+  padding: 20px;
+  transition: all 0.2s;
+  text-align:center;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 10px;
+  width: 300px;
+}
+
+.visible-block {
+  display: block;
+}
+
+.hidden-block {
+  display: none;
+}
+
+.button {
+  margin-left: 5px;
+  margin-bottom: 10px;
+}
+
+/*.dailyschedule {*/
+/*    color: red;*/
+/*}*/
